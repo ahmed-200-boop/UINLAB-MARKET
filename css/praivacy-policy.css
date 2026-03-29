@@ -1,0 +1,23 @@
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.7;
+        background: #f5f6f8;
+        color: #333;
+    }
+    .container2{
+        max-width: 90%;
+        margin: auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 12px;
+    }
+    #privacy h1 {
+        margin-bottom: 20px;
+    }
+    #privacy h2 {
+        margin-top: 25px;
+        color: #2b2383;
+    }
+    #privacy p {
+        margin: 10px 0;
+    }
